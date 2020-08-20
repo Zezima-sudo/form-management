@@ -7,7 +7,7 @@ const Form = () => {
 
 
 
-    //state for our form submits
+    //state for our form submits!
     const [formState, setFormState] = useState({
         name: ''
     })
